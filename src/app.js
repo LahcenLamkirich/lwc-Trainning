@@ -1,7 +1,6 @@
 import { LightningElement } from 'lwc';
 export default class App extends LightningElement {
-   @Api
-   name = 'Electra X4';
+   name = 'Electra X5';
    description = 'A sweet bike built for comfort.';
    category = 'Mountain';
    material = 'Steel';
