@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lahcenlamkirich.lwc-l6ar7bf9-fork-l6ar93qj",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve OCVcnutGOjchyc8EQ1hO --open"
+  }
+}
